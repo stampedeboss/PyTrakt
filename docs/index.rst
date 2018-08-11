@@ -28,7 +28,7 @@ To install with `pip <http://www.pip-installer.org/>`_, just run this in your te
 
 Get the code
 ^^^^^^^^^^^^
-trakt is available on `GitHub <https://github.com/kennethreitz/requests>`_.
+trakt is available on `GitHub <https://github.com/moogar0880/PyTrakt>`_.
 
 You can either clone the public repository::
 
@@ -57,12 +57,12 @@ including example usages.
 
    getstarted.rst
    errors.rst
-   account.rst
    calendar.rst
    movies.rst
    people.rst
    tv.rst
    users.rst
+   core.rst
 
 
 Indices and tables
